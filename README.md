@@ -98,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbanik&layout=compact&hide=html,css&theme=radical" alt="Top Languages" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sagarbanik/sagarbanik/blob/output/github-contribution-grid-snake.svg)
 
 <!--
   Add a custom comparison or summary here after reviewing your GitHub repositories.

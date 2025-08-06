@@ -5,11 +5,6 @@
 
 <h1 align="center">I'm Sagar Chandra Chanda! 👋</h1>
 
-<p align="center">
-  <img src="https://drive.usercontent.google.com/download?id=12ayCixiWLkE-4EHnr1_g7sbNrvEZNdvp&export=view&authuser=0" alt="Cover Photo" style="width:50%;height:300px;object-fit:contain;">
-</p>
-
-
 <p align="center"><b>I'm a Software Developer</b></p>
 
 ---

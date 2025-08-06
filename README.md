@@ -108,6 +108,9 @@
 
 *Travelling, Reading Books, Listening Storys*
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarbanik)](https://github.com/sagarbanik/github-readme-stats)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

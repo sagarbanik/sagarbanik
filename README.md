@@ -58,7 +58,7 @@ I’ll share my favorite project soon—stay tuned!
   Replace the example below with your actual stats, or use a GitHub stats card service like github-readme-stats.
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarbanik&count_private=true&show_icons=true&theme=prussian" width="400">
 </div>
 
 <p align="center">

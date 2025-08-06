@@ -6,7 +6,7 @@
 <h1 align="center">I'm Sagar Chandra Chanda! 👋</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/12ayCixiWLkE-4EHnr1_g7sbNrvEZNdvp/view?usp=drive_link" alt="Cover Photo" style="width:100%;max-height:300px;object-fit:cover;">
+  <img src="https://drive.usercontent.google.com/download?id=12ayCixiWLkE-4EHnr1_g7sbNrvEZNdvp&export=view&authuser=0" alt="Cover Photo" style="width:100%;max-height:300px;object-fit:cover;">
 </p>
 
 

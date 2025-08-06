@@ -3,8 +3,8 @@
   <img src="https://your-cover-photo-link.com/cover.jpg" alt="Cover Photo" style="width:100%;max-height:300px;object-fit:cover;">
 </p>
 
-<h1 align="center">Hi, I'm Sagar! 👋</h1>
-<p align="center"><b>Yes, I'm a Software Developer</b></p>
+<h1 align="center">Hi, I'm Sagar Chandra Chanda! 👋</h1>
+<p align="center"><b>I'm a Software Developer</b></p>
 
 ---
 
@@ -22,7 +22,7 @@
 ## 🌟 Favorite Project
 
 I’ll share my favorite project soon—stay tuned!  
-*(You can suggest your favorite project here later!)*
+
 
 ---
 
@@ -34,10 +34,20 @@ I’ll share my favorite project soon—stay tuned!
 
 ## 🌐 Connect with me
 
-- **Facebook:** [look.sagar.007](https://www.facebook.com/look.sagar.007)
-- **Instagram:** [@iamlooksagar](https://instagram.com/iamlooksagar)
-- **LinkedIn:** [sagar-chandra-chanda-599024bb](https://linkedin.com/in/sagar-chandra-chanda-599024bb)
-- **Email:** looksagar59@gmail.com
+<p align="left">
+  <a href="https://www.facebook.com/look.sagar.007" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/iamlooksagar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/sagar-chandra-chanda-599024bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:looksagar59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -60,4 +70,4 @@ I’ll share my favorite project soon—stay tuned!
 
 ## 🎯 Hobbies
 
-*(I will add my hobbies later!)*
+*Travelling*

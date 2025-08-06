@@ -28,7 +28,7 @@ I’ll share my favorite project soon—stay tuned!
 
 ## ✨ Life Quote
 
-> **Life is short, eat, code, and die (-_-)**
+> **Keep spreading Love. Life is short, eat, code, and die (-_-)**
 
 ---
 
